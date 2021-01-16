@@ -23,7 +23,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
-## Setup the Environment
+## Setup the Environments
 
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
