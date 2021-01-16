@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <include a CircleCI status badge, here>
 
 ## Project Overview
@@ -43,4 +42,3 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Run via kubectl
 =======
 # ml-by-example
->>>>>>> origin/main
