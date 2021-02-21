@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+[![xcoder62](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://app.circleci.com/pipelines/github/Xcoder62/ml-by-example)
 ## Project Overview - New Master Branch
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
