@@ -1,5 +1,5 @@
-[![CircleCI](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example)
-[![Xcoder62](https://circleci.com/gh/xcoder62/ml-by-example/tree/circleci.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example/tree/circleci)
+[![Xcoder62](https://circleci.com/gh/Xcoder62/ml-by-example.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example)
+[![Xcoder62](https://circleci.com/gh/Xcoder62/ml-by-example/tree/circleci.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example/tree/circleci)
 
 D
 [![xcoder62](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
