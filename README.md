@@ -1,4 +1,6 @@
 [![xcoder62](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://app.circleci.com/pipelines/github/Xcoder62/ml-by-example)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 
 ## Project Overview - New Master Branch
 
