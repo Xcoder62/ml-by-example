@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![xcoder62](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://app.circleci.com/pipelines/github/Xcoder62/ml-by-example)
 
 ## Project Overview - New Master Branch
 
