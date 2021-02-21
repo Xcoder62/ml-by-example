@@ -1,11 +1,11 @@
 [![Xcoder62](https://circleci.com/gh/xcoder62/ml-by-example.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example)
+[![Xcoder62](https://circleci.com/gh/xcoder62/ml--by-example/tree/circleci.svg?style=svg)](https://circleci.com/gh/xcoder62/ml-by-example/tree/circleci)
 
 D
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 F
-[![Xcoder62](https://circleci.com/gh/xcoder62/ml-by-example/tree/circleci.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
-
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
 
 ## Project Overview - New Master Branch
 
